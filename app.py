@@ -5,7 +5,7 @@ import pickle
 import tensorflow as tf
 
 # Loading the model
-model = pickle.load(open("D:/Potato Disease Classification/model/model_1.pkl",'rb'))
+model = pickle.load(open("model_1.pkl",'rb'))
 
 # Name of classes 
 class_name = ['Potato___Early_blight', 'Potato___Late_blight', 'Potato___healthy']
