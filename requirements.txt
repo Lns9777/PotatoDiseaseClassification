@@ -1,4 +1,5 @@
-﻿absl-py==2.0.0
+pip==24.0
+absl-py==2.0.0
 altair==5.1.2
 asttokens==2.4.1
 astunparse==1.6.3
@@ -82,7 +83,7 @@ PyQt5-Qt5==5.15.2
 PyQt5-sip==12.13.0
 pyshorteners==1.0.1
 python-dateutil==2.8.2
-pytz==2023.3
+pytz
 pywin32
 PyYAML==6.0.1
 pyzmq==25.1.1
