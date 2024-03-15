@@ -12,3 +12,4 @@ seaborn
 streamlit
 tensorflow
 opencv-python-headless==4.5.5.62
+keras.src.saving.pickle_utils
