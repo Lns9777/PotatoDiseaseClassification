@@ -5,7 +5,6 @@ opencv-python
 pandas
 pickleshare
 pickle5
-pickle
 pillow
 pipenv
 scikit-learn
