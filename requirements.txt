@@ -1,4 +1,4 @@
-﻿keras
+Keras==2.4.3
 matplotlib
 numpy
 opencv-python
